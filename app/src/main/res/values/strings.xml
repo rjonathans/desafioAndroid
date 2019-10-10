@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Digital House Foods</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="btnLog_in">LOG IN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="Name_cadastro">Name</string>
+    <string name="email_cadastro">Email</string>
+    <string name="password_cadastro">Password</string>
+    <string name="repeat_password_cadastro">Repeat Password</string>
+    <string name="btn_register_cadastro">REGISTER</string>
+</resources>
