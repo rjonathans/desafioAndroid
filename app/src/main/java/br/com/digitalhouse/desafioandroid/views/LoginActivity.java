@@ -1,4 +1,4 @@
-package br.com.digitalhouse.desafioandroid;
+package br.com.digitalhouse.desafioandroid.views;
 
 import android.content.Intent;
 import android.os.Build;
@@ -12,8 +12,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.textfield.TextInputLayout;
 
-import static br.com.digitalhouse.desafioandroid.CadastroActivity.EMAIL_KEY;
-import static br.com.digitalhouse.desafioandroid.CadastroActivity.SENHA_KEY;
+import br.com.digitalhouse.desafioandroid.R;
+
+import static br.com.digitalhouse.desafioandroid.views.CadastroActivity.EMAIL_KEY;
+import static br.com.digitalhouse.desafioandroid.views.CadastroActivity.SENHA_KEY;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -49,7 +51,7 @@ public class LoginActivity extends AppCompatActivity {
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(LoginActivity.this,CadastroActivity.class));
+                startActivity(new Intent(LoginActivity.this, CadastroActivity.class));
             }
         });
 

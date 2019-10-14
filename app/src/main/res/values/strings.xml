@@ -9,4 +9,5 @@
     <string name="password_cadastro">Password</string>
     <string name="repeat_password_cadastro">Repeat Password</string>
     <string name="btn_register_cadastro">REGISTER</string>
+    <string name="texto_descritivo_da_receita">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel rutrum nisi. Sed viverra at tellus ut fringilla. Maecenas consectetur, arcu a feugiat tristique, sapien mauris ultrices dui, ac placerat leo urna sed enim. Donec vitae ultricies diam. Nullam luctus tristique interdum. In eu ex vel justo ultricies elementum. Proin gravida dapibus imperdiet. Phasellus sed posuere eros, sit amet finibus risus. Vivamus felis dolor, condimentum et nibh ut, varius dapibus sem. Duis venenatis interdum sem, nec aliquam mi sodales vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sed mollis ipsum. Morbi non sodales turpis.</string>
 </resources>
